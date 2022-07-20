@@ -1,0 +1,12 @@
+funniest/
+    funniest/
+        __init__.py
+        command_line.py
+        tests/
+            __init__.py
+            test_joke.py
+            test_command_line.py
+    MANIFEST.in
+    README.rst
+    setup.py
+    .gitignore
