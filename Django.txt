@@ -1,0 +1,9 @@
+Создание проекта:
+django-admin startproject test .
+
+Создание приложения:
+cd test 
+python manage.py startapp app
+
+manage.py migrate # создаёт базу данных
+python manage.py runserver # запускает проект
