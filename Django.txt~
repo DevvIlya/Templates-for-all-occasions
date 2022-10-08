@@ -1,11 +1,8 @@
-Установка:
-pip install Django
-
 Создание проекта:
-django-admin startproject demo
+django-admin startproject test .
 
 Создание приложения:
-cd demo 
+cd test 
 python manage.py startapp app
 
 
