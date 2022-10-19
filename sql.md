@@ -6,10 +6,10 @@
     \l
 
 Создать базу:
-    createdb -U postgres test1
+    createdb -U postgres test
 
 Удалить базу:
-    dropdb -U postgres test1
+    dropdb -U postgres test
     
 Изменить пароль:
     \password

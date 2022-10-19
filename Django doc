@@ -1,0 +1,13 @@
+Для запуска проекта необходимо:
+
+Установить зависимости:
+    pip install -r requirements.txt
+
+Провести миграцию:
+    python manage.py migrate
+
+Загрузить тестовые данные:
+    python manage.py loaddata articles.json
+
+Запустить отладочный веб-сервер проекта:
+    python manage.py runserver
