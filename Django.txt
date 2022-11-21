@@ -15,7 +15,7 @@
     python manage.py import_phones
 
 При создании моделей или их изменении необходимо выполнить следующие команды:
-    python manage.py makemigrations
+    python manage.py makemigrations # создаёт (но не применяет)
     python manage.py migrate
 
     python manage.py migrate # создаёт базу данных

@@ -4,6 +4,7 @@ https://adminunix.ru/sozdanie-virtualnogo-okruzheniya-python/
 pip install --upgrade pip
 
 
+
 python3 -m venv venv
 source venv/bin/activate
 
