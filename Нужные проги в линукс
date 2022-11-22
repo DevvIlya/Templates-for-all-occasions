@@ -1,0 +1,67 @@
+https://snapcraft.io
+
+
+snap пакеты
+    sudo apt install snapd
+
+
+Для обновления всех пакетов:
+    sudo snap refresh
+
+
+откатить версию всех пакетов или одного из них до предыдущей:
+    sudo snap revert opera
+
+
+Development:
+    sudo snap install sublime-text --classic
+    sudo snap install android-studio --classic
+    sudo snap install code --classic
+    sudo snap install jupyter
+    sudo snap install dbeaver-ce
+    sudo snap install postgresql
+    sudo snap install pycharm-community --classic
+
+    sudo apt install git (
+    git config --global user.name "Your Name"
+    git config --global user.email "youremail@domain.com"
+    )
+
+    sudo apt install postgresql postgresql-contrib
+
+
+Social:
+    sudo snap install telegram-desktop
+    sudo snap install thunderbird
+
+
+Productivity:
+    sudo snap install chromium
+    sudo snap install opera
+
+Utility:
+    sudo apt install stacer
+
+
+Photo and Video
+    sudo snap install digikam
+    sudo snap install vlc
+    sudo snap install pixelfx
+
+
+Music:
+    sudo apt-get install rhythmbox
+
+
+Security:
+    sudo snap install ufw (sudo ufw enable/sudo ufw status)
+
+
+Art and Design
+    sudo snap install darktable
+
+
+Finance
+    sudo snap install skrooge
+
+    sudo apt install homebank
