@@ -65,3 +65,7 @@ Finance
     sudo snap install skrooge
 
     sudo apt install homebank
+
+записи видео с экрана
+    sudo apt install obs-studio
+    sudo apt install vokoscreen
