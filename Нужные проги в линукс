@@ -51,6 +51,7 @@ Photo and Video
 
 Music:
     sudo apt-get install rhythmbox
+    sudo snap install spotify
 
 
 Security:
@@ -59,6 +60,7 @@ Security:
 
 Art and Design
     sudo snap install darktable
+    sudo snap install gimp
 
 
 Finance
@@ -69,3 +71,6 @@ Finance
 записи видео с экрана
     sudo apt install obs-studio
     sudo apt install vokoscreen
+
+Game
+    sudo snap install steam
