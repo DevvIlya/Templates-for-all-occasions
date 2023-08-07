@@ -19,8 +19,8 @@ Development:
     sudo snap install code --classic
     sudo snap install jupyter
     sudo snap install dbeaver-ce
-    sudo snap install postgresql
     sudo snap install pycharm-community --classic
+    sudo snap install beekeeper-studio
 
     sudo apt install git (
     git config --global user.name "Your Name"
