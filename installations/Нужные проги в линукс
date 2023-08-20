@@ -55,7 +55,7 @@ Music:
 
 
 Security:
-    sudo snap install ufw (sudo ufw enable/sudo ufw status)
+    sudo snap install ufw (sudo ufw enable/sudo ufw status/sudo ufw disable)
 
 
 Art and Design
