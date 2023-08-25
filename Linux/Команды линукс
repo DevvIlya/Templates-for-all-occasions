@@ -15,3 +15,10 @@
     
 Список обновлений, не устанавливая их
     sudo snap refresh --list
+
+
+Продублирую сюда пару книжек по линуксу (обе не дочитал, но  обе классные): 
+Простая:
+https://docs.altlinux.org/books/altlibrary-linuxintro2.pdf
+Сложная:
+https://www.ozon.ru/product/yadro-linux-opisanie-protsessa-razrabotki-3-e-izdanie-645388238/?oos_search=false&sh=bnfJoKt1gQ
