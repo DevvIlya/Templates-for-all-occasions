@@ -1,6 +1,6 @@
 # Шаблоны на все случаи жизни
 
-[RUS](https://github.com/yi1lei6a3/Templates/tree/RUS)/[ENG](https://github.com/yi1lei6a3/Templates/tree/ENG)
+[RUS](https://github.com/yi1lei6a3/Templates/tree/RUS) / [ENG](https://github.com/yi1lei6a3/Templates/tree/ENG)
 
 ## Навигация
 
