@@ -3,17 +3,18 @@ https://adminunix.ru/sozdanie-virtualnogo-okruzheniya-python/
 
 pip install --upgrade pip
 
-
-
 python3 -m venv venv
+
+Linux:
 source venv/bin/activate
+
+Windows:
+.\venv\Scripts\Activate
 
 deactivate
 
-
 Эта команда создает файл requirements.txt со всеми пакетами, которые требуются программе:
 pip freeze > requirements.txt
-
 
 установить библиотеки, указанные в файле requirements.txt:
 pip install -r requirements.txt
